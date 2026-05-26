@@ -1,6 +1,6 @@
 # Stolen Model Detection
 
-This repository contains the code used for Trustworthy Machine Learning Assignment 2, Stolen Model Detection.
+This repository contains the code used for Trustworthy Machine Learning Course , Assignment 2: **Stolen Model Detection**.
 
 ## Files
 
